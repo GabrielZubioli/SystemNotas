@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|c:\\users\\gabriel\\downloads\\apinotas\\sistemanotas\\sistemanotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|c:\\users\\gabriel\\downloads\\apinotas\\sistemanotas\\sistemanotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\SistemaNotas\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\SistemaNotas\\Form1.cs*",
+              "RelativeToolTip": "SistemaNotas\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:36:15.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\SistemaNotas\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\SistemaNotas\\Form1.cs [Projeto]*",
+              "RelativeToolTip": "SistemaNotas\\Form1.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:30:01.855Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
