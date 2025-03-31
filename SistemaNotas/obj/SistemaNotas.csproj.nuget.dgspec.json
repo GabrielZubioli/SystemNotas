@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\SistemaNotas\\SistemaNotas.csproj": {}
+    "C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\SistemaNotas\\SistemaNotas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\SistemaNotas\\SistemaNotas.csproj": {
+    "C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\SistemaNotas\\SistemaNotas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\SistemaNotas\\SistemaNotas.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\SistemaNotas\\SistemaNotas.csproj",
         "projectName": "SistemaNotas",
-        "projectPath": "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\SistemaNotas\\SistemaNotas.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\SistemaNotas\\SistemaNotas.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\SistemaNotas\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\SistemaNotas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,9 +51,19 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
             "MySql.Data": {
               "target": "Package",
               "version": "[9.2.0, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             }
           },
           "imports": [

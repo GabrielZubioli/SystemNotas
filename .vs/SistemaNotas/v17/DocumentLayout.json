@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\",
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\sistemanotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|c:\\users\\gabriel\\downloads\\apinotas\\sistemanotas\\sistemanotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|c:\\users\\gabriel\\downloads\\sistemanotas\\sistemanotas\\conexaobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\conexaobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|c:\\users\\gabriel\\downloads\\sistemanotas\\sistemanotas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|c:\\users\\gabriel\\downloads\\sistemanotas\\sistemanotas\\casdastronotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\casdastronotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|c:\\users\\gabriel\\downloads\\sistemanotas\\sistemanotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|c:\\users\\gabriel\\downloads\\apinotas\\sistemanotas\\sistemanotas\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|c:\\users\\gabriel\\downloads\\apinotas\\sistemanotas\\sistemanotas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\sistemanotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39B114EC-9D3E-48FD-98DB-48DA8CDFA5B5}|SistemaNotas\\SistemaNotas.csproj|solutionrelative:sistemanotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +34,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\SistemaNotas\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "SistemaNotas\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\SistemaNotas\\Form1.Designer.cs",
-              "RelativeToolTip": "SistemaNotas\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CasdastroNotas.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\SistemaNotas\\CasdastroNotas.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\CasdastroNotas.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\SistemaNotas\\CasdastroNotas.cs",
+              "RelativeToolTip": "SistemaNotas\\CasdastroNotas.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAwwJoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T19:17:58.613Z",
+              "WhenOpened": "2025-03-30T02:20:16.308Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-03-31T01:10:34.418Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.resx",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\SistemaNotas\\Form1.resx",
-              "RelativeDocumentMoniker": "SistemaNotas\\Form1.resx",
-              "ToolTip": "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\SistemaNotas\\Form1.resx",
-              "RelativeToolTip": "SistemaNotas\\Form1.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-03-29T19:17:58.595Z",
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\SistemaNotas\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\SistemaNotas\\Form1.Designer.cs",
+              "RelativeToolTip": "SistemaNotas\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T03:42:15.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\SistemaNotas\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\SistemaNotas\\Form1.cs",
+              "RelativeToolTip": "SistemaNotas\\Form1.cs",
+              "ViewState": "AgIAAMYBAAAAAAAAAAAQwPsBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T00:49:18.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\SistemaNotas\\Form1.cs",
-              "RelativeDocumentMoniker": "SistemaNotas\\Form1.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\SistemaNotas\\Form1.cs",
-              "RelativeToolTip": "SistemaNotas\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Title": "ConexaoBanco.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\SistemaNotas\\ConexaoBanco.cs",
+              "RelativeDocumentMoniker": "SistemaNotas\\ConexaoBanco.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\SistemaNotas\\ConexaoBanco.cs",
+              "RelativeToolTip": "SistemaNotas\\ConexaoBanco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T01:36:15.681Z",
+              "WhenOpened": "2025-03-30T03:06:31.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\SistemaNotas\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\SistemaNotas\\Form1.cs",
               "RelativeDocumentMoniker": "SistemaNotas\\Form1.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\Downloads\\ApiNotas\\SistemaNotas\\SistemaNotas\\Form1.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Gabriel\\Downloads\\SistemaNotas\\SistemaNotas\\Form1.cs [Projeto]",
               "RelativeToolTip": "SistemaNotas\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T01:30:01.855Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-03-29T19:50:18.8Z"
             }
           ]
         }

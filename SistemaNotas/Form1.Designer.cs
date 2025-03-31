@@ -2,13 +2,11 @@
 {
     partial class Form1
     {
-        /// <summary>
-        ///  Required designer variable.
-        /// </summary>
+
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        ///  Clean up any resources being used.
+        /// Clean up any resources being used.
         /// </summary>
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
@@ -19,29 +17,22 @@
             }
             base.Dispose(disposing);
         }
-
-        #region Windows Form Designer generated code
-
-        /// <summary>
-        ///  Required method for Designer support - do not modify
-        ///  the contents of this method with the code editor.
-        /// </summary>
-        private void InitializeComponent()
-        {
-            SuspendLayout();
-            // 
-            // Form1
-            // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
-            AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(535, 342);
-            Name = "Form1";
-            StartPosition = FormStartPosition.WindowsDefaultBounds;
-            Text = "Notas";
-            Load += Form1_Load;
-            ResumeLayout(false);
-        }
-
-        #endregion
+        private Label lbl_Aluno;
+        private Label lbl_Disciplina;
+        private Label lbl_Valor;
+        private Label lbl_Data;
+        private TextBox txtBox_Valor;
+        private TextBox txtBox_Disciplina;
+        private TextBox txtBox_Aluno;
+        private DataGridView display_dados;
+        private Button bt_Add;
+        private Button bt_Atualizar;
+        private Button bt_Buscar;
+        private Button bt_Exluir;
+        private DateTimePicker dateTimePicker;
+        private TextBox txtBox_Id;
+        private Label lbl_Id;
+        private Button button1;
+        private Button button2;
     }
 }
